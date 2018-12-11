@@ -1,0 +1,3 @@
+module Paybacker
+  VERSION = "0.1.0"
+end
